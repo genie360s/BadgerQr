@@ -6,8 +6,11 @@
     margin:0;
     padding:0;
     font-family: 'Inter', sans-serif;
-    background-color:  #ebf7ff;;
+    /* background-color:  #ebf7ff;; */
     
+}
+body{
+    background-color:  #ebf7ff;  
 }
 
 main{
@@ -280,7 +283,7 @@ p {
     margin-left: 20%;
 }
 
-.form-control{
+/* .form-control{
     background-color: transparent !important;
     padding: 10%;
     border: none;
@@ -288,4 +291,4 @@ p {
     font-size: 40pt;
     color: #00298a;
     font-weight: bold;
-}
+} */
