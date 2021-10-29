@@ -10,6 +10,9 @@
     color:black;
     
 }
+body{
+    background-color:  #ebf7ff;  
+}
 
 main{
     width: 100vw;
@@ -286,7 +289,7 @@ p {
     margin-left: 20%;
 }
 
-.form-control{
+/* .form-control{
     background-color: transparent !important;
     padding: 10%;
     border: none;
@@ -294,4 +297,4 @@ p {
     font-size: 40pt;
     color: #00298a;
     font-weight: bold;
-}
+} */
