@@ -1,6 +1,7 @@
 #card{
-    border-color: #1435e1;
+    max-width: 63%;
 }
+
 .form-control{
     border-radius: 0%;
     border-top: transparent;
@@ -18,10 +19,10 @@
 
 .dot{
     /* background-color: #1435e1; */
-    padding: 1%;
+    /* padding: 1%; */
     margin-top: 2%;
     border: 2px dotted;
-    border-color: #1435e1;
+    border-color: #1436e167;
     border-radius: 30px;
 }
  
