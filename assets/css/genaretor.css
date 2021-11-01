@@ -1,0 +1,57 @@
+/* body{
+    overflow-y: hidden;
+} */
+.qr_code{
+    float: right;
+    background-color: #1435e1;
+    border-radius: 30px;
+
+     
+}
+
+.card{
+    border-radius: 30px;
+    background-color: #1435e1;
+    border: transparent !important;
+    margin-top: 2.7%;
+    color: #FFF;
+ 
+}
+
+.btn-link{
+    color: #FFF;
+    background-color: #1435e1 !important; 
+    box-shadow: 1px 2px 1px 1px #040a27d5;
+
+}
+.btn-link:hover{
+    color: #FFF !important;
+    text-decoration: none !important;
+}
+.btn-link:focus{
+    text-decoration: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    color: #FFF;
+}
+a :hover{
+    color: #FFF !important;
+ 
+}
+.card-header{
+    background-color: #1435e1 !important; 
+}
+
+#butn{
+    margin-left: 6%;
+    padding: 3%;
+    margin-top: 5%;
+}
+.card-header{
+    border-bottom: transparent !important;
+}
+
+.buut{
+    margin-left: 26%;
+
+}

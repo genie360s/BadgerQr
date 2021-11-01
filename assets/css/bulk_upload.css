@@ -1,5 +1,12 @@
+body{
+    overflow-y: hidden;
+}
+.card{
+    border: transparent !important;
+
+}
 #card{
-    max-width: 60%;
+    max-width: 58%;
 }
 
 .form-control{
@@ -8,6 +15,11 @@
     border-left: transparent;
     border-right: transparent;
     border-bottom: 1px solid #1435e1;
+}
+
+.form-control:focus{
+    outline: none !important;
+    box-shadow: none !important;
 }
 
  
